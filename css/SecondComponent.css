@@ -3,7 +3,8 @@
     color: cyan;
     transform: scale(100%, 100%);
   }
-  50% {color: blue;
+  50% {
+    color: blue;
     transform: scale(75%, 75%);
   }
   100% {
@@ -11,12 +12,11 @@
     transform: scale(100%, 100%);
   }
 }
-
 .main-text {
-    color: cyan;
-    transition: all 1ms ease-in;
+  color: cyan;
+  transition: all 1ms ease-in;
 }
 
 .main-text:hover {
   animation: change-size 1 3s linear;
-}
+}/*# sourceMappingURL=SecondComponent.css.map */

@@ -51,6 +51,6 @@
     animation: logo-spin infinite 20s linear;
   }
   .title {
-    animation: change-size infinite 3s linear ;
+    animation: change-size infinite 3s linear;
   }
 }
